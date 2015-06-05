@@ -26,7 +26,7 @@ gem 'spring',        group: :development
 gem 'faker'
 gem 'devise'
 gem 'rspec-rails'
-gem 'bootstrap-material-design'
+gem 'bootstrap-sass'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
